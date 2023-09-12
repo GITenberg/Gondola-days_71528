@@ -1,0 +1,33 @@
+_repo: Gondola-days_71528
+_version: 0.0.1
+contributor:
+  illustrator: &id001
+    agent_name: Smith, Francis Hopkinson
+    alias: Smith, F. Hopkinson (Francis Hopkinson)
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '444'
+    url: http://www.gutenberg.org/2009/agents/444
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2023-08-31'
+identifiers:
+  gutenberg: '71528'
+language: en
+pgterms:marc904: https://archive.org/details/gondoladaysbyfho00smit/page/n251/mode/2up
+pgterms:marc905: 20230416112849smith
+pgterms:marc906: '1897'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton, Mifflin and Company, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gondola days
+url: http://www.gutenberg.org/ebooks/71528
