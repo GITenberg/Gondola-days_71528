@@ -9,9 +9,14 @@ contributor:
     gutenberg_agent_id: '444'
     url: http://www.gutenberg.org/2009/agents/444
     wikipedia: https://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+covers:
+- cover_type: archival
+  image_path: 71528-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71528#Gondola-days
 gutenberg_issued: '2023-08-31'
 identifiers:
   gutenberg: '71528'
